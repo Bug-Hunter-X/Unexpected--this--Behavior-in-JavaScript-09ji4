@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving the 'this' keyword.  The bug.js file shows how 'this' can unexpectedly resolve to the global object (or undefined in strict mode) when a function is called without a proper context. The bugSolution.js file provides multiple solutions to resolve this. This is a subtle error that often catches developers off guard.
